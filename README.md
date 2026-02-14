@@ -1,2 +1,3 @@
-# Sql-data-warehouse-project
-build a data-warehouse project with mySql-server, including ETL processing, data modeling, and analytics
+# Data warehouse and Analytics project
+
+Welcome to the **Data warehouse and analytics project** Repository !
